@@ -1,0 +1,75 @@
+.top-header{ padding: 5px 0;}
+.header-logo img{ width: 90px;}
+.menu li a{ padding: 0 10px !important;
+}
+img{
+max-width: 100%;
+}
+/*========== banner-css======= */
+.banner-text h5{margin-top: 150px;}
+.web-btn{
+    background: #8490ff !important;
+    border: 1px solid transparent !important;
+    transition: .5s;
+    border:1px solid transparent;
+}
+.web-btn:hover{
+    background: #fff !important;
+    color: #8490ff !important;
+    border: 1px solid #8490ff !important;
+}
+/* ==========About-css============= */
+.about-text p{
+    font-size: 13px;
+    font-weight: 500;
+}
+.about-text a{
+    background: #8490ff !important;
+    border: 1px solid transparent !important;
+}
+/* Number-counter */
+.countet{ background: #8490ff;}
+.number-countes p{font-size: 13px;}
+.prices-number{
+    height: 80px;
+    width: 80px;
+   margin-bottom: 10px;
+}
+.prices-number h5{line-height: 80px;}
+/* pricess */
+.prices-btn a{
+    color: #8490ff !important;
+    border: 1px solid #8490ff !important;
+    box-shadow: 3px 3px 25px -1px #6279df83;
+    transition: .5s;
+    padding: 9px 30px;
+}
+.prices-btn a:hover{
+    background: #8490ff !important;
+    color: #fff !important;
+    box-shadow:none;
+}
+/* Our-team */
+.membar-card img{
+    width: 100px;
+    margin-left: -110px;
+    margin-top: -100px;
+}
+.ourteam{
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+.membar-card .card-body h5{
+    font-weight: 400;
+    font-size: 17px;
+}
+.contacts form .hab-width{
+    width: 48%;
+    margin-right: 20px;
+}
+.hovers{transition: .5s;}
+.hovers:hover{
+    background: black;
+    color: #fff;
+    box-shadow:none !important ;
+}

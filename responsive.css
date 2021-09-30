@@ -1,0 +1,19 @@
+
+@media(max-width:1200px){
+    .membar-card{
+        margin-bottom: 80px !important;
+        width: 70%;
+        margin: auto;
+    }
+}
+
+@media(max-width:768px){
+    .contacts form .hab-width {
+        width: 100%;
+    }
+}
+@media(max-width:578px){
+footer p{
+    font-size: 14px;
+}
+}
